@@ -6,14 +6,7 @@
   position: fixed;
   height: 44px;
   padding: 0 20px;
-     width: -webkit-fill-available;
-  top: 0;
-  left: 0; /* ✅ let pages-layout.css control margin-left */
-  right: 0;
-  background: darkslateblue;
-  border-bottom: 1px solid black;
- z-index: 2;
-  transition: all 0.3s ease;
+     
 }
 
 
